@@ -7,7 +7,7 @@ This repo contains tutorials, resources, and projects for learning robotics with
 
 ## 🛠️ Platforms & Tools Covered
 
-### 🟢 BBC Micro:bit
+### 🟢 [BBC Micro:bit](https://github.com/babatundeawo/robotics/tree/main/microbit)
 - Introduction to the **Micro:bit board**  
 - Programming with **MakeCode** and **Python (MicroPython)**  
 - Projects:
@@ -19,7 +19,7 @@ This repo contains tutorials, resources, and projects for learning robotics with
 
 ---
 
-### 🔵 Arduino
+### 🔵 [Arduino](https://github.com/babatundeawo/robotics/tree/main/arduino)
 - Introduction to **Arduino Uno / Nano / Mega**  
 - Programming with **Arduino IDE (C/C++)**  
 - Projects:
@@ -32,9 +32,9 @@ This repo contains tutorials, resources, and projects for learning robotics with
 ---
 
 ### 🟣 Other Robotics Tools
-- **Raspberry Pi** – Linux setup, Python projects, GPIO control  
+- [**Raspberry Pi**](https://github.com/babatundeawo/robotics/tree/main/raspberrypi) – Linux setup, Python projects, GPIO control  
 - **Sensors & Actuators** – integrating motion sensors, light sensors, buzzers, and displays  
-- **IoT Devices** – connecting robotics projects to the internet for remote monitoring and control  
+- [**IoT Devices**](https://github.com/babatundeawo/robotics/tree/main/iot) – connecting robotics projects to the internet for remote monitoring and control  
 
 ---
 
@@ -50,10 +50,10 @@ By working through this repository, learners will:
 
 ## 📂 Repository Structure
 
-- `/microbit` → Tutorials and projects for Micro:bit  
-- `/arduino` → Tutorials and projects for Arduino  
-- `/raspberrypi` → Tutorials and projects for Raspberry Pi  
-- `/iot` → IoT-based robotics projects  
+- [`/microbit](https://github.com/babatundeawo/robotics/tree/main/microbit)` → Tutorials and projects for Micro:bit  
+- [`/arduino`](https://github.com/babatundeawo/robotics/tree/main/arduino) → Tutorials and projects for Arduino  
+- [`/raspberrypi`](https://github.com/babatundeawo/robotics/tree/main/raspberrypi) → Tutorials and projects for Raspberry Pi  
+- [`/iot`](https://github.com/babatundeawo/robotics/tree/main/iot) → IoT-based robotics projects  
 
 ---
 
